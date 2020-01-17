@@ -1,2 +1,2 @@
 # Simple-Neural-Net-For-Digit-Classification
-Online Training using Simple Perceptrons Neural Network for Handwritten Digit Recognition
+Online Training using Simple Perceptron Neural Network for Handwritten Digit Recognition
